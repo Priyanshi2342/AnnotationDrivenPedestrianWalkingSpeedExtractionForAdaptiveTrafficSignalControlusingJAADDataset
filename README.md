@@ -1,0 +1,2 @@
+# AnnotationDrivenPedestrianWalkingSpeedExtractionForAdaptiveTrafficSignalControlusingJAADDataset
+Annotation-based pedestrian walking speed extraction using JAAD dataset for adaptive traffic signal control without real-time ML models.
